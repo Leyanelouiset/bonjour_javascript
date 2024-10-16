@@ -40,4 +40,4 @@ let secondname = " nico et rodic"
 console.log(secondname)
 
 message=" bonjour "+firstname+ secondname+ " sont les meilleurs en dev !"
-console.log(message) 
+console.log(message)
